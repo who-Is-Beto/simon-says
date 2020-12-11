@@ -1,0 +1,11 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "description": "My first project using html, css, and javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "whoIsBeto",
+  "license": "ISC"
+}
